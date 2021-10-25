@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CalculadoraSimple</string>
+    <string name="lblCalculadoraSimple">Calculadora Simple</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnRestar">Restar</string>
+    <string name="btnDividir">Dividir</string>
+    <string name="btnMultiplicar">Multiplicar</string>
+    <string name="lblSumar">Sumar</string>
+    <string name="lblRestar">Restar</string>
+    <string name="lblMultiplicar">Multiplicar</string>
+    <string name="lblDividir">Dividir</string>
+    <string name="lblN1">Num1</string>
+    <string name="lblN2">Num2</string>
+    <string name="btnCalcular">CALCULAR</string>
+
+
+</resources>
